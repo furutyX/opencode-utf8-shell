@@ -1,6 +1,6 @@
 {
   "name": "opencode-utf8-shell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "opencode plugin: force UTF-8 output encoding for PowerShell shell commands on Windows (fixes CJK mojibake). v1/v2 dual.",
   "type": "module",
   "main": "./index.js",

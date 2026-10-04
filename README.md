@@ -44,6 +44,11 @@ opencode plugin add git+https://github.com/furutyX/opencode-utf8-shell.git
 
 インストール後、**opencode を再起動**してください（プラグインは起動時に読み込まれます）。
 
+## 免責
+
+本プラグインは opencode とは無関係の**非公式なコミュニティプラグイン**です
+（opencode / anomalyco による承認・提携・サポートはありません）。
+
 ## ライセンス
 
 MIT
